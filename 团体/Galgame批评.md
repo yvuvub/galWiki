@@ -7,16 +7,14 @@
 
 ---
 
-### 目标  
-
-  + 扩大和强化游戏本身的内容，实现过往作品的现代化，具体而言：
-    + 实现不同比率的屏幕适配。  
-    + 将游戏文本作为字符串变量单独存储，便于翻译。
-    + 通过ai扩大，提高游戏内素材的分辨率，增强视觉体验。
-    + 实现更流畅的动效。
-    + 以音质更高的，已发行的原声带替换游戏内部分音乐素材。
-    + （可能的）引入杜比音效。
-    + （可能的）引入伪3D效果。
-    + （可能的）保证游戏在不同平台的兼容性。
+### 主要创作内容
+  + Galgame新闻速递
+    + [周报](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=37612)
+    + [愚人节特别年报](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=2629091)
+    + [每月新作前瞻](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=466175)
+  + [年度十大汉化](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=825358)
+  + [方桌剧场](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=1755353)
+  + 游戏[介绍](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=3116449)与[评测](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=1464523)
+  + [方桌锐评](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=732105)
 
 ---
