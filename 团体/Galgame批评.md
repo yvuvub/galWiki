@@ -4,24 +4,24 @@ Galgame批评是一个主要在Bilibili与微信公众号活跃的中文自媒�
 
 ### 主要创作内容
 + Galgame新闻速递  
-  + [每周Galgame新闻速递](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=37612)  
-  + [愚人节特别年报](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=2629091)  
-  + [每月新作前瞻](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=466175)  
-+ [年度十大汉化](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=825358)  
-+ [访谈翻译](https://www.bilibili.com/read/readlist/rl494743)  
-+ [方桌剧场](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=1755353)  
-+ 游戏[介绍](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=3116449)与[评测](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=1464523)  
-+ [方桌锐评](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=732105)  
+  + 每周Galgame新闻速递  
+  + 愚人节特别年报（整活的假消息）  
+  + 每月新作前瞻  
++ 年度十大汉化  
++ 对游戏开发者访谈的翻译  
++ 方桌锐评  
++ 方桌剧场  
++ 游戏介绍与评测
 
 ### 相关链接
 
 + [Bilibili首页](https://space.bilibili.com/2072586344)
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
++ [每周Galgame新闻速递](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=37612)
++ [愚人节特别年报](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=2629091)
++ [每月新作前瞻](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=466175)
++ [年度十大汉化](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=825358)
++ [访谈翻译](https://www.bilibili.com/read/readlist/rl494743)
++ [方桌剧场](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=1755353)
++ [方桌锐评](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=732105)
++ [游戏介绍](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=3116449)
++ [游戏评测](https://space.bilibili.com/2072586344/channel/collectiondetail?sid=1464523)
