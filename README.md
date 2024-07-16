@@ -1,7 +1,19 @@
 # galWiki
 ---
 
-目前wiki词条数为**149**个，但大多数仍是空壳，总体处于画饼状态，大家想写什么就pr
+7.16 update：  
+add&update:  
+[cmvs](/工具/引擎/cmvs.md)
+[krkr](/工具/引擎/krkr.md)
+[祝愿你的人生，永远有幸福的魔法相伴](/梗/祝愿你的人生，永远有幸福的魔法相伴.md)
+
+add:
+[fuckBGI](/工具/解包/fuckBGI.md)
+[WESTSIDE](/工具/解包/WESTSIDE.md)
+[立绘合成](/概念/立绘合成.md)
+...
+
+总之又挖了好多坑...
 
 致力于收集，整合galgame相关信息。
 
