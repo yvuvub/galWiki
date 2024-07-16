@@ -13,7 +13,7 @@ cmvs引擎的封包文件扩展名为.cpz。
 
 .cpz文件存在代数区分。随意选择data/pack下的任意一个cpz文件，使用十六进制编辑器打开  
 
-[!image](/asset/cmvs/代数.jpg)  
+![image](/asset/cmvs/代数.jpg)  
 
 *クロノクロック>bg.cpz*  
 
