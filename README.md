@@ -21,6 +21,7 @@ add:
 
 7.20 update:
 [elite-gal2023](/事件/elite-gal%202023.md)投票正在进行中！选出你认为最佳的年度新作与汉化作吧！
+详情请见[Elite Galgame 2023 活动开始](https://tieba.baidu.com/p/9094903036)(百度贴吧)
 
 ---
 
