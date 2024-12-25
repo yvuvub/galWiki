@@ -1,6 +1,8 @@
 # galWiki
 ---
 
+现在我们有fandom wiki了 [fandom galwik](https://gal.fandom.com/zh/wiki/%E5%A5%8F?action=submit)
+
 7.16 update：  
 add&update:  
 [cmvs](/工具/引擎/cmvs.md)
